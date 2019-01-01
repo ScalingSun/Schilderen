@@ -1,0 +1,10 @@
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\bin\Debug\iedereenkanschilderen.exe.config
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\bin\Debug\iedereenkanschilderen.exe
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\bin\Debug\iedereenkanschilderen.pdb
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.Form1.resources
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.Properties.Resources.resources
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.csproj.GenerateResource.cache
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.exe
+C:\Users\Tim\source\repos\iedereenkanschilderen\iedereenkanschilderen\obj\Debug\iedereenkanschilderen.pdb
